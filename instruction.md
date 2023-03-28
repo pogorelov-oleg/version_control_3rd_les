@@ -2,9 +2,9 @@
 
 ## Сервисы для хранения репозиториев в интернете
 
-* https://github.com/
-* https://bitbucket.org/
-* https://gitlab.com/
+* [github](https://github.com/)
+* [bitbucket](https://bitbucket.org/)
+* [gitlab](https://gitlab.com/)
 
 ## Список комманд
 
